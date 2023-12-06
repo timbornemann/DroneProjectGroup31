@@ -9,7 +9,7 @@ import droneStuff.DroneDynamic;
 import droneStuff.DroneType;
 
 public class JsonProcessor {
-
+//hallo
 	ApiConnection apiConnection = new ApiConnection();
 
 	public String processDroneTypes(String jsonAsString, Speicher speicher) {
