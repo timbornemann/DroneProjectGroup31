@@ -1,4 +1,4 @@
-package de.frauas.project;
+package de.frauas.dronenprojekt.gruppe31;
 
 public class Drone {
 	private int id;

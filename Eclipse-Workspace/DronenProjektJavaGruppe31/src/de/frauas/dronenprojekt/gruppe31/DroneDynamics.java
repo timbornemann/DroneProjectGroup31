@@ -1,4 +1,6 @@
-package de.frauas.project;
+package de.frauas.dronenpr
+
+t.gruppe31;
 
 public class DroneDynamics {
 	private Drone drone;
