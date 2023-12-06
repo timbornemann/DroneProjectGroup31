@@ -7,7 +7,7 @@ public class Drone {
 	private String serialnummer;
 	private int carriageWeight;
 	private String carriageType;
-	//Hallo hallo
+	//Hallo hallo Annika :)
 	/*
 	 * empty Constructor
 	 */
